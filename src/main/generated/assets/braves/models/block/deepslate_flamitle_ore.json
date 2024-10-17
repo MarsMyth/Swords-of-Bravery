@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "braves:block/deepslate_flamitle_ore"
+  }
+}
